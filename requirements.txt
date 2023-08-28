@@ -1,0 +1,7 @@
+aiogram
+pandas
+openpyxl
+sqlalchemy
+psycopg2-binary
+Flask
+python-dotenv
